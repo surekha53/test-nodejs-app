@@ -9,7 +9,9 @@
 1. Enable nodejs packages on Linux server 
    ```sh 
    curl -sL https://rpm.nodesource.com/setup_15.x | bash -
-   ```
+
+
+```
 1. install development tools. 
    ```sh 
    yum groupinstall 'Development Tools'
@@ -39,5 +41,5 @@ Using simple "hello world" application from the [nodejs.org](https://nodejs.org/
    npm install
    tar czf easyio.tar-$BUILD_NUMBER.gz node_modules main.js package.json public LICENSE
    ```
-
-## To Deploy on nodejs application server 
+## To Deploy on nodejs application server
+# I am in vignan
